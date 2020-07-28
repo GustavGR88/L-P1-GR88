@@ -7,3 +7,6 @@ hoy hablaremos de esta nueva historia
 probando vim nuevamente y siguiendo los videos en toda 
 
 la configuracion de git. 
+
+
+para borrar esto
