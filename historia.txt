@@ -8,5 +8,9 @@ probando vim nuevamente y siguiendo los videos en toda
 
 la configuracion de git. 
 
+branches 
 
-para borrar esto
+fusionar ramas con git merge seleciono la rama en la que deseo que se le agreguen 
+las ramas ejecuto el git merge pongo el mensaje y hecho. si hay conflitos los puedo corregir 
+en code. 
+
