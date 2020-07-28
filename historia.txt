@@ -3,3 +3,7 @@ segunda historia para practicar todo lo aprendido
 GustavGR    
 
 hoy hablaremos de esta nueva historia 
+
+probando vim nuevamente y siguiendo los videos en toda 
+
+la configuracion de git. 
