@@ -25,3 +25,8 @@ margin: 0 auto;
     margin: 0;
     padding: 0.5cm;
 }
+#footer
+{
+    text-align: center;
+    color: #000;
+}
